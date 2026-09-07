@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain-community
+pypdf
+python-multipart
+streamlit
+requests
